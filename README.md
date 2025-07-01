@@ -1,4 +1,4 @@
-Sure! Here's a professional and well-structured `README.md` file for your GitHub project: **Trio - Online Notes Sharing System**.
+
 
 ---
 
@@ -86,11 +86,6 @@ Sure! Here's a professional and well-structured `README.md` file for your GitHub
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots here to showcase the UI and key features)*
-
----
 
 ## ✨ Future Enhancements
 
